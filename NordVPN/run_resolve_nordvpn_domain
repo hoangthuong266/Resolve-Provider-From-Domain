@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+
+SERVER=hk
+FIRST_SERVER=203
+LAST_SERVER=290
+
+if [[ -f list_provider.txt ]]; then
+	rm list_provider.txt
+fi
+touch list_provider.txt
+
+for ((i = $FIRST_SERVER ; i <= $LAST_SERVER ; i++)); do
+	arr_domains=("${arr_domains[@]}" "${SERVER}${i}.nordvpn.com")
+done
+
+for domain in "${arr_domains[@]}"; do
+	ip=`getent hosts $domain | awk '{ print $1 }'`
+	if [[ -z $ip ]]; then
+		echo "$domain is not available" >> list_provider.txt
+		echo >> list_provider.txt
+	else
+		echo $domain >> list_provider.txt
+		curl ipinfo.io/${ip}?token=66a2f0fb690288 >> list_provider.txt
+		echo >> list_provider.txt
+		echo >> list_provider.txt
+	fi
+done
