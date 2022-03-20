@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+if [[ -f list_provider.txt ]]; then
+	rm list_provider.txt
+fi
+touch list_provider.txt
+
+for file in `ls List_Domain`; do
+	domain=${file%_*}
+	ip=`getent hosts $domain | awk '{ print $1 }'`
+	if [[ -z $ip ]]; then
+		echo "$domain is not available" >> list_provider.txt
+		echo >> list_provider.txt
+	else
+		echo $domain >> list_provider.txt
+		curl ipinfo.io/${ip}?token=66a2f0fb690288 >> list_provider.txt
+		echo >> list_provider.txt
+		echo >> list_provider.txt
+	fi
+done

@@ -1,0 +1,315 @@
+sg-in.prod.surfshark.com
+{
+  "ip": "128.199.193.35",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3215,103.6957",
+  "org": "AS14061 DigitalOcean, LLC",
+  "postal": "627753",
+  "timezone": "Asia/Singapore"
+}
+
+sg-in.prod.surfshark.com
+{
+  "ip": "128.199.193.35",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3215,103.6957",
+  "org": "AS14061 DigitalOcean, LLC",
+  "postal": "627753",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-mp001.prod.surfshark.com
+{
+  "ip": "206.189.94.229",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3215,103.6957",
+  "org": "AS14061 DigitalOcean, LLC",
+  "postal": "627753",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-mp001.prod.surfshark.com
+{
+  "ip": "206.189.94.229",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3215,103.6957",
+  "org": "AS14061 DigitalOcean, LLC",
+  "postal": "627753",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st001.prod.surfshark.com
+{
+  "ip": "217.138.201.91",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st001.prod.surfshark.com
+{
+  "ip": "217.138.201.91",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st002.prod.surfshark.com
+{
+  "ip": "217.138.201.93",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st002.prod.surfshark.com
+{
+  "ip": "217.138.201.93",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st003.prod.surfshark.com
+{
+  "ip": "84.247.49.19",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st003.prod.surfshark.com
+{
+  "ip": "84.247.49.19",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st004.prod.surfshark.com
+{
+  "ip": "84.247.49.21",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st004.prod.surfshark.com
+{
+  "ip": "84.247.49.21",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS9009 M247 Ltd",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st005.prod.surfshark.com
+{
+  "ip": "138.199.60.175",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st005.prod.surfshark.com
+{
+  "ip": "138.199.60.175",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st006.prod.surfshark.com
+{
+  "ip": "138.199.60.177",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st006.prod.surfshark.com
+{
+  "ip": "138.199.60.177",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st007.prod.surfshark.com
+{
+  "ip": "138.199.60.170",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st007.prod.surfshark.com
+{
+  "ip": "138.199.60.170",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st008.prod.surfshark.com
+{
+  "ip": "138.199.60.172",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st008.prod.surfshark.com
+{
+  "ip": "138.199.60.172",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st009.prod.surfshark.com
+{
+  "ip": "138.199.60.180",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st009.prod.surfshark.com
+{
+  "ip": "138.199.60.180",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st010.prod.surfshark.com
+{
+  "ip": "138.199.60.182",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng-st010.prod.surfshark.com
+{
+  "ip": "138.199.60.182",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3558,103.8232",
+  "org": "AS212238 Datacamp Limited",
+  "postal": "574177",
+  "timezone": "Asia/Singapore"
+}
+
+sg-sng.prod.surfshark.com
+{
+  "ip": "103.216.223.165",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "org": "AS136557 Host Universal Pty Ltd",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
+sg-sng.prod.surfshark.com
+{
+  "ip": "89.187.163.136",
+  "hostname": "unn-89-187-163-136.cdn77.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.3557,103.8237",
+  "org": "AS60068 Datacamp Limited",
+  "postal": "574180",
+  "timezone": "Asia/Singapore",
+  "readme": "https://ipinfo.io/missingauth"
+}
+
