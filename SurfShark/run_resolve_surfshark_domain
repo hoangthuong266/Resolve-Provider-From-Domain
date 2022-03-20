@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 if [[ -f list_provider.txt ]]; then
 	rm list_provider.txt
